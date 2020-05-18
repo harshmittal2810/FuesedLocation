@@ -1,0 +1,2 @@
+rootProject.name='FuesedLocation'
+include ':app'
